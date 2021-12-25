@@ -2,9 +2,9 @@
 
 Built with HTML, CSS and Javascript by Jonas Schmedtmann Complete Javascript Udemy Course
 
-<img src="https://user-images.githubusercontent.com/88436030/147393763-b82d2061-edad-4c7f-abf2-e0bbea64e9ca.PNG" width= "400" />
+<img src="https://user-images.githubusercontent.com/88436030/147393763-b82d2061-edad-4c7f-abf2-e0bbea64e9ca.PNG" width= "800" />
 
-<img src="https://user-images.githubusercontent.com/88436030/147393765-884255d3-ac80-48df-9ac8-f3d68310ac0a.PNG" width="50" height="150" />
+<img src="https://user-images.githubusercontent.com/88436030/147393765-884255d3-ac80-48df-9ac8-f3d68310ac0a.PNG" width="150" height="250" />
 
 ## What I've Learned
 
