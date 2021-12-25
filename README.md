@@ -4,7 +4,7 @@ Built with HTML, CSS and Javascript by Jonas Schmedtmann Complete Javascript Ude
 
 <img src="https://user-images.githubusercontent.com/88436030/147393763-b82d2061-edad-4c7f-abf2-e0bbea64e9ca.PNG" style="width= 400px"/>
 
-<img src="https://user-images.githubusercontent.com/88436030/147393765-884255d3-ac80-48df-9ac8-f3d68310ac0a.PNG" style="width= 100px"/>
+<img src="https://user-images.githubusercontent.com/88436030/147393765-884255d3-ac80-48df-9ac8-f3d68310ac0a.PNG" style="width= 40px"/>
 
 ## What I've Learned
 
